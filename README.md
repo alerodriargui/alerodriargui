@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Alex Rodríguez (@alerodriargui)
+# 👋 Hey, I'm Alejandro Rodríguez (@alerodriargui)
 
 🚀 **Builder | Crypto | Automation | Data | Bots**  
 💡 Turning ideas into products. Shipping fast. Learning faster.
