@@ -105,6 +105,7 @@ I believe small teams and solo builders can compete globally when they focus on 
 
 - GitHub: [github.com/alerodriargui](https://github.com/alerodriargui)
 - X / Twitter: [x.com/alerodriargui](https://x.com/alerodriargui)
+- LinkedIn: [linkedin.com/alerodriargui](https://linkedin.com/in/alerodriargui)
 
 ---
 
