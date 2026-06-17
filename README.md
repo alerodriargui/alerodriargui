@@ -1,59 +1,91 @@
-# 👋 Hey, I'm Alejandro Rodríguez (@alerodriargui)
+# 👋 Hey, I'm Alejandro Rodríguez
 
-🚀 **Builder | Crypto | Automation | Data | Bots**  
-💡 Turning ideas into products. Shipping fast. Learning faster.
+Software Engineer from the University of the Balearic Islands.  
+Building at the intersection of **software, crypto, automation, data and product**.
+
+I like turning ideas into real tools, shipping fast, and learning by building.
 
 ---
 
 ## 🧠 About me
 
-I'm a **developer & product builder** focused on:
+I'm a software engineer and product-minded builder focused on creating practical tools around:
 
-- 🤖 **Trading bots & copy trading systems**
-- 🔮 **Prediction markets (Polymarket, on-chain data)**
-- ⚙️ **Automation, scraping & data pipelines**
-- 🌍 **International crypto-native products**
-- 🧪 Rapid prototyping & MVPs
+- Crypto and DeFi
+- Automation and data pipelines
+- Trading systems and market intelligence
+- Bots, scraping and real-time data collectors
+- Dashboards and decision-making tools
+- Fast MVPs and experimental products
 
-I like to build **things that people actually use**, especially in crypto, finance and data-driven decision making.
+I enjoy building software that solves real problems, especially in areas where speed, data and automation create an advantage.
 
 ---
 
-## 🔥 What I'm working on
+## 🔥 What I'm interested in
 
-- 📈 **Polymarket bots** (copy trading, signals, analytics)
-- 🧠 Market intelligence tools
-- 🕸️ Scrapers & real-time data collectors
-- 🧩 Experimental crypto products & MVPs
-- 📊 Dashboards for decision-making
+Right now, I'm especially interested in:
 
-Some projects are public, some private, some still cooking 👨‍🍳
+- DeFi protocols and open-source crypto infrastructure
+- Prediction markets and on-chain data
+- Trading bots, copy trading and signal systems
+- Automation workflows
+- Market intelligence tools
+- Products that can scale globally from day one
+
+Some projects are public, some are private, and some are still being tested.
 
 ---
 
 ## 🛠️ Tech stack
 
-**Languages**
-- Python 🐍
+### Languages
+
+- Python
 - JavaScript / TypeScript
+- C#
 - SQL
 
-**Backend & Data**
+### Backend & Data
+
+- .NET / ASP.NET MVC
 - FastAPI / Flask
-- Web scraping (requests, Playwright, Selenium)
-- APIs & on-chain data
-- PostgreSQL / MySQL
+- REST APIs
+- PostgreSQL / MySQL / SQL Server
+- Web scraping with Playwright, Selenium and requests
+- Data processing and automation pipelines
 
-**Crypto & Finance**
+### Crypto & Automation
+
 - Web3 / EVM
-- Prediction markets
-- Trading logic & automation
-- Bots & execution engines
+- DeFi protocols
+- Trading logic
+- Bots and execution systems
+- On-chain and market data
 
-**Other**
+### Tools
+
 - Git & GitHub
 - Linux
-- Rapid MVP development
+- Docker
+- Visual Studio / VS Code
+- Rapid prototyping and MVP development
+
+---
+
+## 🚀 What I'm building
+
+I like working on tools such as:
+
+- Polymarket bots and analytics
+- Copy trading systems
+- Crypto dashboards
+- Scrapers and real-time data collectors
+- Automation tools
+- Internal productivity software
+- Experimental crypto-native products
+
+My goal is simple: build useful products, learn fast, and improve with every iteration.
 
 ---
 
@@ -61,29 +93,34 @@ Some projects are public, some private, some still cooking 👨‍🍳
 
 > Build fast.  
 > Validate early.  
-> Automate everything.  
-> Crypto is global by default.
+> Automate what repeats.  
+> Use data to make better decisions.  
+> Think global from day one.
 
-I believe **small teams (or solo builders)** can compete globally if they move fast and focus on leverage.
+I believe small teams and solo builders can compete globally when they focus on leverage, speed and execution.
 
 ---
 
 ## 🌍 Find me
 
-- 🐦 Twitter / X: *(soon 👀)*
-- 💻 GitHub: [github.com/alerodriargui](https://github.com/alerodriargui)
+- GitHub: [github.com/alerodriargui](https://github.com/alerodriargui)
+- X / Twitter: coming soon
 
 ---
 
 ## 🤝 Open to
 
-- Crypto-native collaborations
-- Open-source experiments
-- Interesting ideas & MVPs
-- Building tools people pay for
+I'm open to collaborating on:
 
-If you're building something cool → let's talk.
+- Crypto and DeFi projects
+- Open-source tools
+- Automation products
+- Trading and market intelligence systems
+- MVPs with real business potential
+- Useful software people are willing to pay for
+
+If you're building something interesting, feel free to reach out.
 
 ---
 
-⭐ *If you like what I build, consider starring a repo.*
+⭐ If you find any of my projects useful, consider starring a repo.
