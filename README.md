@@ -104,7 +104,7 @@ I believe small teams and solo builders can compete globally when they focus on 
 ## 🌍 Find me
 
 - GitHub: [github.com/alerodriargui](https://github.com/alerodriargui)
-- X / Twitter: coming soon
+- X / Twitter: [x.com/alerodriargui](https://x.com/alerodriargui)
 
 ---
 
